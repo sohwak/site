@@ -1,0 +1,15 @@
+[DOCUMENTATION]
+ORG_NAME="Sohwak Iikk Inc."
+ORG_URL="http://sohwak.xyz"
+ORG_DESCRIPTION="Sohwak Scam Company based on Gibraltar"
+
+[[CURRENCIES]]
+code="SOHK"
+issuer="GAY7EWSZVGWCUJ35KVWYJUKDD4RARHUEBZSUK5LNUGSBYBPLAV364EGJ"
+display_decimals=7 # Maximum decimal places that can be represented is 7
+image="https://sohwak.xyz/sohwak.png"
+name="Sohwak"
+desc="BUY ONLY, NO SELL, UNTIL GAZUA"
+fixed_number = 999999999
+conditions="hot"
+status="live"
